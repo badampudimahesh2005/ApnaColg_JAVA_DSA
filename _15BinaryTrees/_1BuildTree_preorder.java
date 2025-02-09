@@ -1,9 +1,8 @@
-package BinaryTrees;
 
 import java.util.*;
 
 
-public class BuildTree_preorder {
+public class _1BuildTree_preorder {
 
     static class Node{
         int data;

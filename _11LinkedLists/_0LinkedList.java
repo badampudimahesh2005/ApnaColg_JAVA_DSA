@@ -1,6 +1,6 @@
 
-package LinkedLists;
 
+import java.util.Scanner;
 
 public class _0LinkedList {
 
